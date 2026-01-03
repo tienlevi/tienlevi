@@ -34,7 +34,7 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://svgl.app/library/mongodb-icon-dark.svg" width="36" height="36" alt="MongoDB" /></a>
     <a href="https://supabase.com" target="_blank" rel="noreferrer"><img src="https://svgl.app/library/supabase.svg" width="36" height="36" alt="Supabase" /></a>
     <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://svgl.app/library/graphql.svg" width="36" height="36" alt="GraphQL" /></a>
-    <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://svgl.app/library/mysql-icon-dark.svg" width="36" height="36" alt="MySQL" /></a>
+    <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://svgl.app/library/mysql-icon-light.svg" width="36" height="36" alt="MySQL" /></a>
     <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://svgl.app/library/redis.svg" width="36" height="36" alt="Redis" /></a>
 </p>
 
