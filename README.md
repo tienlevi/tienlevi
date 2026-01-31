@@ -3,8 +3,6 @@
 
 # Web Developer
 -------------
-
-* 🖥️  See my portfolio at [Facebook](http://www.facebook.com/TienRonaldo/)
 * ✉️  You can contact me at [nguyentrachtien2401@gmail.com](mailto:nguyentrachtien2401@gmail.com)
 
 ## Skills
@@ -38,3 +36,5 @@
     <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://svgl.app/library/redis.svg" width="36" height="36" alt="Redis" /></a>
 </p>
 
+### Stat
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tienlevi&theme=dark" alt="GitHub Streak" /></a>
