@@ -36,5 +36,15 @@
     <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://svgl.app/library/redis.svg" width="36" height="36" alt="Redis" /></a>
 </p>
 
+### AI tools
+<p align='left'>
+    <a href="https://antigravity.google" target="_blank" rel="noreferrer"><img src="https://svgl.app/library/antigravity.svg" width="36" height="36" alt="Antigravity" /></a>
+    <a href="https://claude.ai" target="_blank" rel="noreferrer"><img src="https://svgl.app/library/claude-ai-icon.svg" width="36" height="36" alt="Claude" /></a>
+    <a href="https://gemini.google.com" target="_blank" rel="noreferrer"><img src="https://svgl.app/library/gemini.svg" width="36" height="36" alt="Gemini" /></a>
+</p>
+
 ### Stat
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tienlevi&theme=dark" alt="GitHub Streak" /></a>
+<div style="display: flex; align-items: start">
+    <img src="https://github-readme-stats-eta-kohl-43.vercel.app/api?username=tienlevi&show_icons=true&bg_color=0d1117&title_color=20E3B2&icon_color=20E3B2&text_color=c9d1d9&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eta-kohl-43.vercel.app/api/top-langs/?username=tienlevi&layout=donut&bg_color=0d1117&title_color=20E3B2&icon_color=20E3B2&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
+</div>
